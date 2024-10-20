@@ -1,0 +1,44 @@
+IDS - ASSIGNMENT-1:
+
+Members:
+------
+	- ZAINAB NAVEED (BSDS-F22-M-013)
+	 https://github.com/ZainabNaveed13
+
+	- HASSAN AHMED RANA (BSDS-F22-M-027)
+	 https://github.com/hasaanahmedrana
+
+
+Notes:
+-----
+	For detailed information about project, read README.md from repository.
+	Repository Link: https://github.com/hasaanahmedrana/CREATIVE-MINDS/tree/main
+
+
+Overview
+--------
+
+The Creative Minds website serves as a one-stop solution for businesses and individuals seeking high-quality web applications, mobile applications, and cloud computing services. We leverage modern technologies such as HTML, JavaScript, and CSS to provide responsive and interactive user experiences across multiple platforms. Our goal is to offer seamless digital services that cater to the diverse needs of our clients.
+
+Features
+--------
+- JavaScript Enhancements:
+  - Animations, modals, and responsive navigation.
+  - Real-time form validation.
+- Design Improvements:
+  - Bright, colorful design with consistent themes.
+  - White subheadings on the index page for clarity.
+
+File Structure
+--------------
+- index.html: Main webpage.
+- styles.css: Styling for a colorful and modern look.
+- script.js: JavaScript for interactivity.
+- assets/ Visual assets.
+
+Usage
+-----
+1. Clone the repository:
+   git cloneh ttps://github.com/hasaanahmedrana/CREATIVE-MINDS.git
+
+2. Open index.html in a browser.
